@@ -1,0 +1,5 @@
+{
+  "name": "Reception QR Pass",
+  "description": "A modern UI for displaying a user's QR code for reception scanning.",
+  "requestFramePermissions": []
+}
